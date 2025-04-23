@@ -52,7 +52,7 @@ helm create webapp
 ---
 
 
-### Create a New GitHub
+### Create a New GitHub Repository
 ```
 helm-web-app
 ```

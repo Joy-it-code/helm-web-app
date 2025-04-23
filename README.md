@@ -47,7 +47,15 @@ cd helm-web-app
 ```
 helm create webapp
 ```
+![](./img/2b.create,web.png)
+
 ---
+
+
+### Create a New GitHub
+```
+helm-web-app
+```
 
 ## 3: Initialize Git:
 ```
